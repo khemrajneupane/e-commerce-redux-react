@@ -24,7 +24,7 @@ const BasketView = (props) => {
     <ul className="basket-list-container">
       <li>
         <h3>
-          Shopping basket
+          Shopping Basket View
         </h3>
         <div><Pdf /></div>
       </li>
