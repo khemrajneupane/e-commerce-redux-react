@@ -24,7 +24,7 @@ useEffect(() => {
               {" "}
               <img
                 className="item-image"
-                src={p.image}
+                src={require("../assets/dress.jpg")}
                 alt="jersey-shirt-dress-maroon"
               />
             </Link>
